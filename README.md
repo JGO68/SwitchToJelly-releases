@@ -6,6 +6,8 @@ SwitchToJelly is a Windows app that copies your Plex watch history to Jellyfin: 
 watched, where you stopped, your watchlist and your playlists. For a Plex Home, each member's
 history can go to their own Jellyfin user.
 
+[![Watch SwitchToJelly in action on YouTube](https://img.youtube.com/vi/mihcYXvIR_I/maxresdefault.jpg)](https://youtu.be/mihcYXvIR_I)
+
 ## Download
 
 **[Download the latest version](https://github.com/JGO68/SwitchToJelly-releases/releases/latest)**:
